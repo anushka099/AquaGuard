@@ -1,0 +1,289 @@
+Area,Timestamp,Flow (L/min),Pressure (psi),Temperature (°C),Leak Detected,Recommendations,System Alerts
+Residential,2025-01-01 00:00:00,76.56,36.94,25.82,False,Verify sensor calibration.; Perform routine maintenance on the system.; Inspect for leaks immediately.,No critical issues detected.
+Residential,2025-01-01 00:30:00,86.26,31.68,7.12,True,Contact a technician for detailed inspection.; Verify sensor calibration.; Monitor flow rate for consistent patterns.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Residential,2025-01-01 01:00:00,116.54,29.87,21.41,False,Inspect for leaks immediately.; Inspect system for clogging or obstructions.; Verify sensor calibration.,No critical issues detected.
+Residential,2025-01-01 01:30:00,98.85,44.2,32.86,True,Contact a technician for detailed inspection.; Verify sensor calibration.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Residential,2025-01-01 02:00:00,142.26,45.16,18.91,False,Ensure temperature regulation systems are operational.; Check pressure valve settings.,No critical issues detected.
+Residential,2025-01-01 02:30:00,137.88,45.34,27.15,False,Monitor flow rate for consistent patterns.; Check for unusual consumption patterns.; Check pressure valve settings.,No critical issues detected.
+Residential,2025-01-01 03:00:00,124.38,21.42,20.6,False,Monitor flow rate for consistent patterns.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Residential,2025-01-01 03:30:00,121.46,37.31,20.39,False,Check pressure valve settings.; Inspect for leaks immediately.; Perform routine maintenance on the system.,No critical issues detected.
+Residential,2025-01-01 04:00:00,145.91,51.57,11.82,False,Inspect for leaks immediately.; Check pressure valve settings.,No critical issues detected.
+Residential,2025-01-01 04:30:00,79.17,66.28,11.26,False,Inspect for leaks immediately.; Contact a technician for detailed inspection.,No critical issues detected.
+Residential,2025-01-01 05:00:00,141.34,63.92,18.21,False,Contact a technician for detailed inspection.; Ensure temperature regulation systems are operational.; Perform routine maintenance on the system.,No critical issues detected.
+Residential,2025-01-01 05:30:00,63.16,47.45,23.12,False,Perform routine maintenance on the system.; Contact a technician for detailed inspection.; Verify sensor calibration.,No critical issues detected.
+Residential,2025-01-01 06:00:00,142.24,53.41,16.2,False,Inspect for leaks immediately.; Check pressure valve settings.; Check for unusual consumption patterns.,No critical issues detected.
+Residential,2025-01-01 06:30:00,87.75,38.8,11.48,False,Check pressure valve settings.; Verify sensor calibration.,No critical issues detected.
+Residential,2025-01-01 07:00:00,85.09,24.69,14.58,False,Perform routine maintenance on the system.; Inspect system for clogging or obstructions.; Check pressure valve settings.,No critical issues detected.
+Residential,2025-01-01 07:30:00,63.84,44.75,29.69,False,Ensure temperature regulation systems are operational.; Check for unusual consumption patterns.,No critical issues detected.
+Residential,2025-01-01 08:00:00,73.37,42.74,28.25,True,Monitor flow rate for consistent patterns.; Inspect system for clogging or obstructions.; Verify sensor calibration.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Residential,2025-01-01 08:30:00,114.58,21.58,25.56,False,Verify sensor calibration.; Inspect system for clogging or obstructions.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Residential,2025-01-01 09:00:00,69.68,33.37,23.16,False,Monitor flow rate for consistent patterns.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Residential,2025-01-01 09:30:00,128.58,22.04,28.9,False,Monitor flow rate for consistent patterns.; Contact a technician for detailed inspection.,No critical issues detected.
+Residential,2025-01-01 10:00:00,118.92,25.88,26.94,False,Inspect for leaks immediately.; Perform routine maintenance on the system.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Residential,2025-01-01 10:30:00,59.31,65.06,14.32,False,Check for unusual consumption patterns.; Inspect for leaks immediately.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Residential,2025-01-01 11:00:00,78.03,32.59,25.45,False,Inspect for leaks immediately.; Check for unusual consumption patterns.,No critical issues detected.
+Residential,2025-01-01 11:30:00,50.88,52.64,28.03,False,Check pressure valve settings.; Inspect for leaks immediately.; Check for unusual consumption patterns.,No critical issues detected.
+Residential,2025-01-01 12:00:00,87.16,14.5,18.39,True,Ensure temperature regulation systems are operational.; Check pressure valve settings.; Inspect system for clogging or obstructions.,"Leak detected. Sudden changes in flow, pressure, or temperature observed.; Pressure critically low (14.504959206317821 psi). Possible leak or malfunction."
+Residential,2025-01-01 12:30:00,122.87,24.39,13.31,False,Inspect system for clogging or obstructions.; Monitor flow rate for consistent patterns.; Check for unusual consumption patterns.,No critical issues detected.
+Residential,2025-01-01 13:00:00,79.63,28.99,13.83,False,Check for unusual consumption patterns.; Contact a technician for detailed inspection.,No critical issues detected.
+Residential,2025-01-01 13:30:00,119.81,38.25,11.93,True,Inspect system for clogging or obstructions.; Inspect for leaks immediately.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Residential,2025-01-01 14:00:00,121.32,34.5,17.84,False,Check pressure valve settings.; Inspect for leaks immediately.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Residential,2025-01-01 14:30:00,94.33,58.19,11.66,False,Verify sensor calibration.; Inspect system for clogging or obstructions.,No critical issues detected.
+Residential,2025-01-01 15:00:00,137.21,59.01,20.12,False,Check pressure valve settings.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Residential,2025-01-01 15:30:00,143.06,59.95,26.6,False,Perform routine maintenance on the system.; Inspect system for clogging or obstructions.,No critical issues detected.
+Residential,2025-01-01 16:00:00,73.94,50.19,25.9,False,Check pressure valve settings.; Verify sensor calibration.,No critical issues detected.
+Residential,2025-01-01 16:30:00,143.14,33.51,15.45,False,Verify sensor calibration.; Check pressure valve settings.,No critical issues detected.
+Residential,2025-01-01 17:00:00,195.65,34.37,16.35,True,Check pressure valve settings.; Check for unusual consumption patterns.; Inspect for leaks immediately.,"Leak detected. Sudden changes in flow, pressure, or temperature observed.; Flow rate critically high (195.65051307438503 L/min). Potential overconsumption or leak."
+Residential,2025-01-01 17:30:00,73.02,62.31,11.51,False,Check pressure valve settings.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Residential,2025-01-01 18:00:00,96.6,46.68,14.57,False,Contact a technician for detailed inspection.; Check pressure valve settings.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Residential,2025-01-01 18:30:00,50.45,39.85,20.5,False,Inspect for leaks immediately.; Check for unusual consumption patterns.,No critical issues detected.
+Residential,2025-01-01 19:00:00,112.91,30.39,13.79,False,Check for unusual consumption patterns.; Inspect for leaks immediately.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Residential,2025-01-01 19:30:00,191.57,40.74,17.09,True,Contact a technician for detailed inspection.; Check for unusual consumption patterns.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Residential,2025-01-01 20:00:00,122.05,36.46,12.68,False,Inspect system for clogging or obstructions.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Residential,2025-01-01 20:30:00,98.13,60.36,14.8,True,Check pressure valve settings.; Perform routine maintenance on the system.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Residential,2025-01-01 21:00:00,62.53,40.31,10.54,False,Monitor flow rate for consistent patterns.; Inspect system for clogging or obstructions.,No critical issues detected.
+Residential,2025-01-01 21:30:00,144.89,24.06,27.67,True,Check for unusual consumption patterns.; Inspect for leaks immediately.; Ensure temperature regulation systems are operational.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Residential,2025-01-01 22:00:00,102.45,20.87,21.66,True,Verify sensor calibration.; Check for unusual consumption patterns.; Check pressure valve settings.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Residential,2025-01-01 22:30:00,73.21,23.83,12.97,False,Check for unusual consumption patterns.; Inspect system for clogging or obstructions.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Residential,2025-01-01 23:00:00,56.2,28.77,24.16,False,Contact a technician for detailed inspection.; Verify sensor calibration.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Residential,2025-01-01 23:30:00,141.87,40.82,14.14,False,Monitor flow rate for consistent patterns.; Verify sensor calibration.; Check pressure valve settings.,No critical issues detected.
+Commercial,2025-01-01 00:00:00,550.4,62.45,26.1,True,Inspect for leaks immediately.; Check for unusual consumption patterns.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Commercial,2025-01-01 00:30:00,282.24,48.89,25.21,True,Check pressure valve settings.; Monitor flow rate for consistent patterns.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Commercial,2025-01-01 01:00:00,261.72,78.22,12.21,False,Inspect for leaks immediately.; Check pressure valve settings.,No critical issues detected.
+Commercial,2025-01-01 01:30:00,446.9,42.8,18.17,False,Check pressure valve settings.; Inspect system for clogging or obstructions.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Commercial,2025-01-01 02:00:00,253.93,39.91,20.03,False,Contact a technician for detailed inspection.; Inspect system for clogging or obstructions.; Perform routine maintenance on the system.,No critical issues detected.
+Commercial,2025-01-01 02:30:00,488.58,75.5,19.67,False,Perform routine maintenance on the system.; Ensure temperature regulation systems are operational.; Check for unusual consumption patterns.,No critical issues detected.
+Commercial,2025-01-01 03:00:00,353.66,69.06,16.85,False,Check for unusual consumption patterns.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Commercial,2025-01-01 03:30:00,434.71,61.14,10.7,False,Verify sensor calibration.; Ensure temperature regulation systems are operational.; Check for unusual consumption patterns.,No critical issues detected.
+Commercial,2025-01-01 04:00:00,301.99,67.41,20.79,False,Inspect for leaks immediately.; Perform routine maintenance on the system.; Check pressure valve settings.,No critical issues detected.
+Commercial,2025-01-01 04:30:00,292.78,51.23,16.89,False,Contact a technician for detailed inspection.; Monitor flow rate for consistent patterns.; Perform routine maintenance on the system.,No critical issues detected.
+Commercial,2025-01-01 05:00:00,238.79,79.84,14.77,False,Ensure temperature regulation systems are operational.; Check pressure valve settings.; Contact a technician for detailed inspection.,No critical issues detected.
+Commercial,2025-01-01 05:30:00,214.0,76.15,14.13,False,Inspect system for clogging or obstructions.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Commercial,2025-01-01 06:00:00,497.08,53.68,10.41,False,Perform routine maintenance on the system.; Inspect system for clogging or obstructions.,No critical issues detected.
+Commercial,2025-01-01 06:30:00,300.61,50.32,15.7,False,Inspect system for clogging or obstructions.; Check pressure valve settings.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Commercial,2025-01-01 07:00:00,480.75,73.72,23.78,False,Verify sensor calibration.; Perform routine maintenance on the system.; Check pressure valve settings.,No critical issues detected.
+Commercial,2025-01-01 07:30:00,166.23,44.01,19.75,False,Monitor flow rate for consistent patterns.; Inspect for leaks immediately.,No critical issues detected.
+Commercial,2025-01-01 08:00:00,406.37,56.41,24.41,False,Perform routine maintenance on the system.; Monitor flow rate for consistent patterns.; Contact a technician for detailed inspection.,No critical issues detected.
+Commercial,2025-01-01 08:30:00,294.76,37.13,14.86,False,Ensure temperature regulation systems are operational.; Inspect system for clogging or obstructions.,No critical issues detected.
+Commercial,2025-01-01 09:00:00,303.07,59.76,14.68,False,Verify sensor calibration.; Contact a technician for detailed inspection.; Inspect system for clogging or obstructions.,No critical issues detected.
+Commercial,2025-01-01 09:30:00,241.21,65.98,31.57,True,Verify sensor calibration.; Ensure temperature regulation systems are operational.,"Leak detected. Sudden changes in flow, pressure, or temperature observed.; Temperature out of safe range (31.56506557223933 °C). Check system operation."
+Commercial,2025-01-01 10:00:00,280.24,84.41,22.93,False,Verify sensor calibration.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Commercial,2025-01-01 10:30:00,414.26,48.42,15.82,False,Contact a technician for detailed inspection.; Inspect system for clogging or obstructions.,No critical issues detected.
+Commercial,2025-01-01 11:00:00,187.44,83.31,15.77,False,Ensure temperature regulation systems are operational.; Perform routine maintenance on the system.,No critical issues detected.
+Commercial,2025-01-01 11:30:00,387.54,39.0,20.75,True,Ensure temperature regulation systems are operational.; Check for unusual consumption patterns.; Inspect for leaks immediately.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Commercial,2025-01-01 12:00:00,546.54,67.4,12.37,True,Inspect system for clogging or obstructions.; Check pressure valve settings.; Check for unusual consumption patterns.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Commercial,2025-01-01 12:30:00,189.99,53.76,20.55,False,Check for unusual consumption patterns.; Ensure temperature regulation systems are operational.; Perform routine maintenance on the system.,No critical issues detected.
+Commercial,2025-01-01 13:00:00,323.68,62.4,8.9,True,Ensure temperature regulation systems are operational.; Perform routine maintenance on the system.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Commercial,2025-01-01 13:30:00,484.03,60.19,14.46,False,Check pressure valve settings.; Inspect for leaks immediately.,No critical issues detected.
+Commercial,2025-01-01 14:00:00,249.3,62.16,24.42,False,Inspect system for clogging or obstructions.; Contact a technician for detailed inspection.; Inspect for leaks immediately.,No critical issues detected.
+Commercial,2025-01-01 14:30:00,356.96,46.55,25.6,True,Contact a technician for detailed inspection.; Ensure temperature regulation systems are operational.; Verify sensor calibration.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Commercial,2025-01-01 15:00:00,356.52,84.72,17.15,False,Ensure temperature regulation systems are operational.; Inspect system for clogging or obstructions.; Contact a technician for detailed inspection.,No critical issues detected.
+Commercial,2025-01-01 15:30:00,472.92,66.16,16.28,False,Monitor flow rate for consistent patterns.; Contact a technician for detailed inspection.,No critical issues detected.
+Commercial,2025-01-01 16:00:00,328.6,65.81,20.69,True,Monitor flow rate for consistent patterns.; Inspect system for clogging or obstructions.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Commercial,2025-01-01 16:30:00,435.26,81.09,17.65,False,Ensure temperature regulation systems are operational.; Perform routine maintenance on the system.; Contact a technician for detailed inspection.,No critical issues detected.
+Commercial,2025-01-01 17:00:00,473.49,78.36,24.76,False,Monitor flow rate for consistent patterns.; Check for unusual consumption patterns.,No critical issues detected.
+Commercial,2025-01-01 17:30:00,265.44,32.91,27.46,True,Check pressure valve settings.; Inspect system for clogging or obstructions.; Verify sensor calibration.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Commercial,2025-01-01 18:00:00,429.27,75.9,13.61,False,Ensure temperature regulation systems are operational.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Commercial,2025-01-01 18:30:00,383.79,46.54,15.19,False,Check pressure valve settings.; Inspect for leaks immediately.; Check for unusual consumption patterns.,No critical issues detected.
+Commercial,2025-01-01 19:00:00,292.98,51.14,21.59,False,Monitor flow rate for consistent patterns.; Check pressure valve settings.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Commercial,2025-01-01 19:30:00,334.67,47.08,15.37,False,Check pressure valve settings.; Inspect for leaks immediately.; Check for unusual consumption patterns.,No critical issues detected.
+Commercial,2025-01-01 20:00:00,180.02,39.97,19.49,False,Verify sensor calibration.; Inspect system for clogging or obstructions.; Check for unusual consumption patterns.,No critical issues detected.
+Commercial,2025-01-01 20:30:00,474.35,64.96,12.59,False,Inspect system for clogging or obstructions.; Inspect for leaks immediately.,No critical issues detected.
+Commercial,2025-01-01 21:00:00,271.85,76.12,13.56,False,Inspect for leaks immediately.; Verify sensor calibration.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Commercial,2025-01-01 21:30:00,388.15,40.58,16.9,False,Check pressure valve settings.; Inspect for leaks immediately.,No critical issues detected.
+Commercial,2025-01-01 22:00:00,277.19,77.36,13.0,False,Inspect for leaks immediately.; Inspect system for clogging or obstructions.,No critical issues detected.
+Commercial,2025-01-01 22:30:00,400.16,69.36,15.25,False,Verify sensor calibration.; Inspect system for clogging or obstructions.,No critical issues detected.
+Commercial,2025-01-01 23:00:00,262.17,81.79,12.27,False,Check pressure valve settings.; Perform routine maintenance on the system.; Inspect for leaks immediately.,No critical issues detected.
+Commercial,2025-01-01 23:30:00,571.48,49.4,24.51,True,Inspect for leaks immediately.; Verify sensor calibration.; Contact a technician for detailed inspection.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Industrial,2025-01-01 00:00:00,40.0,76.6,21.2,False,Contact a technician for detailed inspection.; Perform routine maintenance on the system.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Industrial,2025-01-01 00:30:00,99.37,81.92,18.12,True,Ensure temperature regulation systems are operational.; Inspect system for clogging or obstructions.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Industrial,2025-01-01 01:00:00,47.47,94.26,27.67,False,Ensure temperature regulation systems are operational.; Verify sensor calibration.,No critical issues detected.
+Industrial,2025-01-01 01:30:00,33.28,76.18,15.74,False,Verify sensor calibration.; Inspect for leaks immediately.,No critical issues detected.
+Industrial,2025-01-01 02:00:00,80.29,114.29,28.71,False,Perform routine maintenance on the system.; Verify sensor calibration.,No critical issues detected.
+Industrial,2025-01-01 02:30:00,57.95,82.55,25.77,False,Monitor flow rate for consistent patterns.; Inspect for leaks immediately.; Perform routine maintenance on the system.,No critical issues detected.
+Industrial,2025-01-01 03:00:00,54.81,103.29,16.39,False,Monitor flow rate for consistent patterns.; Verify sensor calibration.,No critical issues detected.
+Industrial,2025-01-01 03:30:00,49.81,131.28,24.08,False,Perform routine maintenance on the system.; Inspect system for clogging or obstructions.,No critical issues detected.
+Industrial,2025-01-01 04:00:00,64.9,72.21,29.35,False,Monitor flow rate for consistent patterns.; Perform routine maintenance on the system.,No critical issues detected.
+Industrial,2025-01-01 04:30:00,37.64,125.36,27.59,False,Verify sensor calibration.; Contact a technician for detailed inspection.,No critical issues detected.
+Industrial,2025-01-01 05:00:00,70.38,64.62,23.02,False,Monitor flow rate for consistent patterns.; Inspect for leaks immediately.,No critical issues detected.
+Industrial,2025-01-01 05:30:00,50.77,61.78,21.15,True,Inspect system for clogging or obstructions.; Inspect for leaks immediately.; Verify sensor calibration.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Industrial,2025-01-01 06:00:00,64.53,124.64,20.39,False,Verify sensor calibration.; Inspect system for clogging or obstructions.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Industrial,2025-01-01 06:30:00,51.21,95.37,22.19,True,Monitor flow rate for consistent patterns.; Verify sensor calibration.; Perform routine maintenance on the system.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Industrial,2025-01-01 07:00:00,50.25,62.94,32.76,True,Verify sensor calibration.; Inspect for leaks immediately.; Perform routine maintenance on the system.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Industrial,2025-01-01 07:30:00,96.87,113.4,28.97,False,Monitor flow rate for consistent patterns.; Inspect for leaks immediately.; Check for unusual consumption patterns.,No critical issues detected.
+Industrial,2025-01-01 08:00:00,79.8,70.48,28.76,False,Verify sensor calibration.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Industrial,2025-01-01 08:30:00,31.93,57.2,19.15,False,Inspect for leaks immediately.; Ensure temperature regulation systems are operational.; Verify sensor calibration.,No critical issues detected.
+Industrial,2025-01-01 09:00:00,61.88,90.39,28.04,False,Inspect for leaks immediately.; Check pressure valve settings.,No critical issues detected.
+Industrial,2025-01-01 09:30:00,44.87,127.64,19.08,False,Inspect system for clogging or obstructions.; Verify sensor calibration.,No critical issues detected.
+Industrial,2025-01-01 10:00:00,29.56,96.36,24.1,False,Check pressure valve settings.; Inspect system for clogging or obstructions.; Contact a technician for detailed inspection.,No critical issues detected.
+Industrial,2025-01-01 10:30:00,71.79,93.98,14.83,True,Monitor flow rate for consistent patterns.; Verify sensor calibration.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Industrial,2025-01-01 11:00:00,74.82,35.8,28.86,True,Perform routine maintenance on the system.; Contact a technician for detailed inspection.; Check pressure valve settings.,"Leak detected. Sudden changes in flow, pressure, or temperature observed.; Pressure critically low (35.79833862538998 psi). Possible leak or malfunction."
+Industrial,2025-01-01 11:30:00,66.06,81.74,24.06,False,Inspect system for clogging or obstructions.; Check pressure valve settings.; Inspect for leaks immediately.,No critical issues detected.
+Industrial,2025-01-01 12:00:00,32.68,134.14,26.55,False,Perform routine maintenance on the system.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Industrial,2025-01-01 12:30:00,80.29,78.06,15.32,False,Monitor flow rate for consistent patterns.; Inspect system for clogging or obstructions.,No critical issues detected.
+Industrial,2025-01-01 13:00:00,61.18,123.97,29.7,False,Inspect system for clogging or obstructions.; Contact a technician for detailed inspection.,No critical issues detected.
+Industrial,2025-01-01 13:30:00,92.85,102.53,20.46,False,Monitor flow rate for consistent patterns.; Inspect for leaks immediately.,No critical issues detected.
+Industrial,2025-01-01 14:00:00,73.08,68.03,28.47,False,Contact a technician for detailed inspection.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Industrial,2025-01-01 14:30:00,55.56,81.91,27.6,False,Check for unusual consumption patterns.; Inspect for leaks immediately.; Contact a technician for detailed inspection.,No critical issues detected.
+Industrial,2025-01-01 15:00:00,41.7,107.49,15.62,False,Contact a technician for detailed inspection.; Perform routine maintenance on the system.,No critical issues detected.
+Industrial,2025-01-01 15:30:00,62.26,96.85,22.78,True,Inspect system for clogging or obstructions.; Check pressure valve settings.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Industrial,2025-01-01 16:00:00,85.38,98.05,24.84,False,Inspect for leaks immediately.; Perform routine maintenance on the system.; Contact a technician for detailed inspection.,No critical issues detected.
+Industrial,2025-01-01 16:30:00,85.02,91.17,23.13,True,Check pressure valve settings.; Contact a technician for detailed inspection.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Industrial,2025-01-01 17:00:00,60.61,79.7,27.91,False,Monitor flow rate for consistent patterns.; Inspect system for clogging or obstructions.,No critical issues detected.
+Industrial,2025-01-01 17:30:00,46.74,123.95,18.17,False,Monitor flow rate for consistent patterns.; Perform routine maintenance on the system.,No critical issues detected.
+Industrial,2025-01-01 18:00:00,51.07,61.79,29.97,False,Contact a technician for detailed inspection.; Inspect system for clogging or obstructions.,No critical issues detected.
+Industrial,2025-01-01 18:30:00,92.89,136.76,16.84,False,Check pressure valve settings.; Inspect system for clogging or obstructions.,No critical issues detected.
+Industrial,2025-01-01 19:00:00,33.54,98.73,17.48,True,Ensure temperature regulation systems are operational.; Perform routine maintenance on the system.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Industrial,2025-01-01 19:30:00,31.31,107.77,27.25,False,Check pressure valve settings.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Industrial,2025-01-01 20:00:00,61.37,62.91,24.1,False,Ensure temperature regulation systems are operational.; Verify sensor calibration.,No critical issues detected.
+Industrial,2025-01-01 20:30:00,80.78,128.11,15.16,False,Verify sensor calibration.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Industrial,2025-01-01 21:00:00,47.38,85.76,16.32,False,Inspect for leaks immediately.; Monitor flow rate for consistent patterns.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Industrial,2025-01-01 21:30:00,95.35,62.64,21.33,False,Inspect for leaks immediately.; Inspect system for clogging or obstructions.,No critical issues detected.
+Industrial,2025-01-01 22:00:00,87.63,102.18,14.84,True,Check for unusual consumption patterns.; Check pressure valve settings.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Industrial,2025-01-01 22:30:00,75.28,71.45,26.45,False,Monitor flow rate for consistent patterns.; Contact a technician for detailed inspection.; Inspect for leaks immediately.,No critical issues detected.
+Industrial,2025-01-01 23:00:00,99.11,108.38,19.75,True,Verify sensor calibration.; Check pressure valve settings.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Industrial,2025-01-01 23:30:00,104.15,103.79,27.77,True,Monitor flow rate for consistent patterns.; Verify sensor calibration.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Recreational,2025-01-01 00:00:00,711.22,66.69,24.62,True,Check for unusual consumption patterns.; Ensure temperature regulation systems are operational.; Monitor flow rate for consistent patterns.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Recreational,2025-01-01 00:30:00,1557.25,54.02,32.01,True,Inspect system for clogging or obstructions.; Check for unusual consumption patterns.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Recreational,2025-01-01 01:00:00,1935.36,133.91,14.64,False,Verify sensor calibration.; Inspect for leaks immediately.,No critical issues detected.
+Recreational,2025-01-01 01:30:00,1538.17,121.84,19.63,False,Monitor flow rate for consistent patterns.; Perform routine maintenance on the system.,No critical issues detected.
+Recreational,2025-01-01 02:00:00,2442.62,71.59,17.48,True,Inspect for leaks immediately.; Ensure temperature regulation systems are operational.; Verify sensor calibration.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Recreational,2025-01-01 02:30:00,1819.21,76.21,12.14,False,Ensure temperature regulation systems are operational.; Inspect system for clogging or obstructions.; Perform routine maintenance on the system.,No critical issues detected.
+Recreational,2025-01-01 03:00:00,1397.45,140.42,17.19,False,Ensure temperature regulation systems are operational.; Perform routine maintenance on the system.,No critical issues detected.
+Recreational,2025-01-01 03:30:00,825.74,97.77,13.74,False,Inspect system for clogging or obstructions.; Inspect for leaks immediately.; Check pressure valve settings.,No critical issues detected.
+Recreational,2025-01-01 04:00:00,592.11,81.44,20.02,False,Check for unusual consumption patterns.; Contact a technician for detailed inspection.; Perform routine maintenance on the system.,No critical issues detected.
+Recreational,2025-01-01 04:30:00,807.56,112.84,23.46,False,Inspect for leaks immediately.; Check pressure valve settings.; Contact a technician for detailed inspection.,No critical issues detected.
+Recreational,2025-01-01 05:00:00,731.03,89.07,16.95,False,Check pressure valve settings.; Verify sensor calibration.,No critical issues detected.
+Recreational,2025-01-01 05:30:00,1367.53,75.83,12.8,False,Contact a technician for detailed inspection.; Check for unusual consumption patterns.,No critical issues detected.
+Recreational,2025-01-01 06:00:00,1665.05,135.27,13.57,False,Check for unusual consumption patterns.; Ensure temperature regulation systems are operational.; Contact a technician for detailed inspection.,No critical issues detected.
+Recreational,2025-01-01 06:30:00,1781.61,103.28,18.16,False,Verify sensor calibration.; Perform routine maintenance on the system.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Recreational,2025-01-01 07:00:00,1554.08,89.24,17.06,False,Monitor flow rate for consistent patterns.; Inspect system for clogging or obstructions.,No critical issues detected.
+Recreational,2025-01-01 07:30:00,1855.34,84.15,13.14,True,Inspect for leaks immediately.; Check for unusual consumption patterns.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Recreational,2025-01-01 08:00:00,606.26,94.51,10.74,False,Contact a technician for detailed inspection.; Ensure temperature regulation systems are operational.; Verify sensor calibration.,No critical issues detected.
+Recreational,2025-01-01 08:30:00,730.8,152.98,23.8,False,Check pressure valve settings.; Inspect system for clogging or obstructions.; Inspect for leaks immediately.,No critical issues detected.
+Recreational,2025-01-01 09:00:00,1480.13,103.36,27.73,False,Check pressure valve settings.; Check for unusual consumption patterns.,No critical issues detected.
+Recreational,2025-01-01 09:30:00,1663.24,73.5,23.69,False,Check for unusual consumption patterns.; Check pressure valve settings.; Perform routine maintenance on the system.,No critical issues detected.
+Recreational,2025-01-01 10:00:00,1672.82,84.35,23.9,False,Monitor flow rate for consistent patterns.; Perform routine maintenance on the system.,No critical issues detected.
+Recreational,2025-01-01 10:30:00,2119.52,120.08,26.44,True,Contact a technician for detailed inspection.; Monitor flow rate for consistent patterns.; Inspect system for clogging or obstructions.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Recreational,2025-01-01 11:00:00,762.12,150.08,27.76,False,Ensure temperature regulation systems are operational.; Check for unusual consumption patterns.; Inspect system for clogging or obstructions.,No critical issues detected.
+Recreational,2025-01-01 11:30:00,655.14,154.4,20.43,False,Check for unusual consumption patterns.; Inspect for leaks immediately.,No critical issues detected.
+Recreational,2025-01-01 12:00:00,1371.15,84.56,9.01,True,Verify sensor calibration.; Contact a technician for detailed inspection.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Recreational,2025-01-01 12:30:00,1155.34,124.63,16.64,False,Perform routine maintenance on the system.; Inspect for leaks immediately.,No critical issues detected.
+Recreational,2025-01-01 13:00:00,1003.23,96.27,15.7,True,Verify sensor calibration.; Perform routine maintenance on the system.; Monitor flow rate for consistent patterns.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Recreational,2025-01-01 13:30:00,1591.78,143.81,27.51,False,Contact a technician for detailed inspection.; Check pressure valve settings.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Recreational,2025-01-01 14:00:00,1983.13,79.43,14.79,True,Inspect system for clogging or obstructions.; Contact a technician for detailed inspection.; Check for unusual consumption patterns.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Recreational,2025-01-01 14:30:00,1193.85,128.83,14.41,False,Monitor flow rate for consistent patterns.; Check for unusual consumption patterns.,No critical issues detected.
+Recreational,2025-01-01 15:00:00,1850.38,58.72,16.25,True,Inspect for leaks immediately.; Check for unusual consumption patterns.; Contact a technician for detailed inspection.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Recreational,2025-01-01 15:30:00,878.51,98.26,20.56,False,Check for unusual consumption patterns.; Check pressure valve settings.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Recreational,2025-01-01 16:00:00,1702.8,72.48,20.89,False,Inspect system for clogging or obstructions.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Recreational,2025-01-01 16:30:00,1296.27,77.3,28.5,False,Inspect for leaks immediately.; Inspect system for clogging or obstructions.; Check pressure valve settings.,No critical issues detected.
+Recreational,2025-01-01 17:00:00,1905.39,128.1,12.41,False,Inspect for leaks immediately.; Verify sensor calibration.; Check for unusual consumption patterns.,No critical issues detected.
+Recreational,2025-01-01 17:30:00,1924.52,103.86,20.09,False,Inspect system for clogging or obstructions.; Check for unusual consumption patterns.,No critical issues detected.
+Recreational,2025-01-01 18:00:00,1393.28,153.12,12.86,False,Inspect system for clogging or obstructions.; Verify sensor calibration.,No critical issues detected.
+Recreational,2025-01-01 18:30:00,1061.17,142.1,15.42,False,Inspect system for clogging or obstructions.; Contact a technician for detailed inspection.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Recreational,2025-01-01 19:00:00,1321.23,82.35,16.59,False,Contact a technician for detailed inspection.; Perform routine maintenance on the system.; Check for unusual consumption patterns.,No critical issues detected.
+Recreational,2025-01-01 19:30:00,1654.0,95.33,26.42,False,Contact a technician for detailed inspection.; Monitor flow rate for consistent patterns.; Check for unusual consumption patterns.,No critical issues detected.
+Recreational,2025-01-01 20:00:00,1015.47,118.3,10.27,False,Check for unusual consumption patterns.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Recreational,2025-01-01 20:30:00,1658.95,124.89,27.01,False,Ensure temperature regulation systems are operational.; Monitor flow rate for consistent patterns.; Inspect for leaks immediately.,No critical issues detected.
+Recreational,2025-01-01 21:00:00,1732.17,78.96,10.26,False,Inspect system for clogging or obstructions.; Monitor flow rate for consistent patterns.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Recreational,2025-01-01 21:30:00,1688.65,106.0,28.42,False,Inspect for leaks immediately.; Check pressure valve settings.; Verify sensor calibration.,No critical issues detected.
+Recreational,2025-01-01 22:00:00,1336.52,71.7,13.2,False,Perform routine maintenance on the system.; Check pressure valve settings.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Recreational,2025-01-01 22:30:00,776.38,107.6,19.3,False,Perform routine maintenance on the system.; Contact a technician for detailed inspection.,No critical issues detected.
+Recreational,2025-01-01 23:00:00,1046.73,93.8,18.25,False,Verify sensor calibration.; Contact a technician for detailed inspection.,No critical issues detected.
+Recreational,2025-01-01 23:30:00,1284.53,81.69,13.56,False,Ensure temperature regulation systems are operational.; Check for unusual consumption patterns.; Contact a technician for detailed inspection.,No critical issues detected.
+Educational,2025-01-01 00:00:00,266.13,38.63,12.17,False,Verify sensor calibration.; Check for unusual consumption patterns.,No critical issues detected.
+Educational,2025-01-01 00:30:00,342.09,17.31,19.79,True,Monitor flow rate for consistent patterns.; Ensure temperature regulation systems are operational.; Verify sensor calibration.,"Leak detected. Sudden changes in flow, pressure, or temperature observed.; Pressure critically low (17.307130425310024 psi). Possible leak or malfunction."
+Educational,2025-01-01 01:00:00,110.73,28.62,15.84,False,Contact a technician for detailed inspection.; Check pressure valve settings.; Verify sensor calibration.,No critical issues detected.
+Educational,2025-01-01 01:30:00,102.22,42.33,28.83,False,Ensure temperature regulation systems are operational.; Verify sensor calibration.; Inspect system for clogging or obstructions.,No critical issues detected.
+Educational,2025-01-01 02:00:00,284.15,31.7,13.67,False,Inspect system for clogging or obstructions.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Educational,2025-01-01 02:30:00,206.32,42.16,15.96,False,Perform routine maintenance on the system.; Monitor flow rate for consistent patterns.; Inspect for leaks immediately.,No critical issues detected.
+Educational,2025-01-01 03:00:00,135.92,36.32,27.74,False,Check pressure valve settings.; Inspect system for clogging or obstructions.; Inspect for leaks immediately.,No critical issues detected.
+Educational,2025-01-01 03:30:00,254.33,29.12,11.18,False,Contact a technician for detailed inspection.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Educational,2025-01-01 04:00:00,226.28,35.31,14.58,False,Inspect system for clogging or obstructions.; Check for unusual consumption patterns.; Inspect for leaks immediately.,No critical issues detected.
+Educational,2025-01-01 04:30:00,288.35,40.1,19.11,False,Inspect system for clogging or obstructions.; Contact a technician for detailed inspection.,No critical issues detected.
+Educational,2025-01-01 05:00:00,259.51,38.45,11.57,False,Monitor flow rate for consistent patterns.; Check for unusual consumption patterns.; Inspect system for clogging or obstructions.,No critical issues detected.
+Educational,2025-01-01 05:30:00,175.74,41.83,29.82,False,Verify sensor calibration.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Educational,2025-01-01 06:00:00,211.05,32.6,22.2,False,Perform routine maintenance on the system.; Verify sensor calibration.; Contact a technician for detailed inspection.,No critical issues detected.
+Educational,2025-01-01 06:30:00,197.42,42.15,19.97,False,Contact a technician for detailed inspection.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Educational,2025-01-01 07:00:00,102.09,36.69,15.58,False,Check pressure valve settings.; Inspect system for clogging or obstructions.,No critical issues detected.
+Educational,2025-01-01 07:30:00,135.42,32.59,29.33,False,Verify sensor calibration.; Monitor flow rate for consistent patterns.; Check for unusual consumption patterns.,No critical issues detected.
+Educational,2025-01-01 08:00:00,123.25,34.47,21.72,False,Perform routine maintenance on the system.; Verify sensor calibration.,No critical issues detected.
+Educational,2025-01-01 08:30:00,134.35,39.57,26.04,False,Inspect system for clogging or obstructions.; Check pressure valve settings.,No critical issues detected.
+Educational,2025-01-01 09:00:00,297.86,34.63,24.55,False,Verify sensor calibration.; Ensure temperature regulation systems are operational.; Inspect for leaks immediately.,No critical issues detected.
+Educational,2025-01-01 09:30:00,163.6,32.96,23.62,False,Monitor flow rate for consistent patterns.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Educational,2025-01-01 10:00:00,182.94,23.34,12.26,True,Inspect for leaks immediately.; Verify sensor calibration.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Educational,2025-01-01 10:30:00,277.4,26.72,24.68,True,Check for unusual consumption patterns.; Contact a technician for detailed inspection.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Educational,2025-01-01 11:00:00,283.12,38.54,10.77,False,Verify sensor calibration.; Monitor flow rate for consistent patterns.; Perform routine maintenance on the system.,No critical issues detected.
+Educational,2025-01-01 11:30:00,197.3,37.59,23.69,False,Contact a technician for detailed inspection.; Verify sensor calibration.,No critical issues detected.
+Educational,2025-01-01 12:00:00,195.8,29.21,18.28,False,Inspect for leaks immediately.; Ensure temperature regulation systems are operational.; Verify sensor calibration.,No critical issues detected.
+Educational,2025-01-01 12:30:00,203.87,38.18,28.08,False,Inspect system for clogging or obstructions.; Verify sensor calibration.,No critical issues detected.
+Educational,2025-01-01 13:00:00,282.62,39.72,28.13,False,Monitor flow rate for consistent patterns.; Contact a technician for detailed inspection.,No critical issues detected.
+Educational,2025-01-01 13:30:00,215.9,28.69,24.46,False,Inspect for leaks immediately.; Perform routine maintenance on the system.,No critical issues detected.
+Educational,2025-01-01 14:00:00,267.15,29.41,20.02,False,Perform routine maintenance on the system.; Contact a technician for detailed inspection.; Check pressure valve settings.,No critical issues detected.
+Educational,2025-01-01 14:30:00,104.3,33.4,21.06,False,Verify sensor calibration.; Inspect for leaks immediately.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Educational,2025-01-01 15:00:00,185.12,30.16,15.33,False,Inspect system for clogging or obstructions.; Inspect for leaks immediately.,No critical issues detected.
+Educational,2025-01-01 15:30:00,326.03,22.59,17.24,True,Ensure temperature regulation systems are operational.; Check for unusual consumption patterns.; Monitor flow rate for consistent patterns.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Educational,2025-01-01 16:00:00,271.48,30.23,20.73,False,Check for unusual consumption patterns.; Perform routine maintenance on the system.,No critical issues detected.
+Educational,2025-01-01 16:30:00,294.8,41.58,23.42,False,Verify sensor calibration.; Check pressure valve settings.; Contact a technician for detailed inspection.,No critical issues detected.
+Educational,2025-01-01 17:00:00,266.31,41.03,18.7,False,Verify sensor calibration.; Perform routine maintenance on the system.; Check for unusual consumption patterns.,No critical issues detected.
+Educational,2025-01-01 17:30:00,142.71,34.89,27.97,False,Inspect system for clogging or obstructions.; Check pressure valve settings.,No critical issues detected.
+Educational,2025-01-01 18:00:00,178.33,36.98,18.42,False,Perform routine maintenance on the system.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Educational,2025-01-01 18:30:00,113.43,29.08,27.71,False,Inspect system for clogging or obstructions.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Educational,2025-01-01 19:00:00,241.54,31.0,19.16,False,Ensure temperature regulation systems are operational.; Check pressure valve settings.,No critical issues detected.
+Educational,2025-01-01 19:30:00,200.09,35.09,13.91,False,Ensure temperature regulation systems are operational.; Verify sensor calibration.,No critical issues detected.
+Educational,2025-01-01 20:00:00,101.53,34.51,22.04,False,Perform routine maintenance on the system.; Contact a technician for detailed inspection.,No critical issues detected.
+Educational,2025-01-01 20:30:00,173.53,35.77,21.41,False,Inspect system for clogging or obstructions.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Educational,2025-01-01 21:00:00,220.36,31.6,18.89,False,Ensure temperature regulation systems are operational.; Perform routine maintenance on the system.,No critical issues detected.
+Educational,2025-01-01 21:30:00,102.74,29.44,17.94,False,Monitor flow rate for consistent patterns.; Check for unusual consumption patterns.,No critical issues detected.
+Educational,2025-01-01 22:00:00,124.82,39.74,20.87,False,Verify sensor calibration.; Check for unusual consumption patterns.,No critical issues detected.
+Educational,2025-01-01 22:30:00,278.01,30.92,21.14,False,Verify sensor calibration.; Perform routine maintenance on the system.,No critical issues detected.
+Educational,2025-01-01 23:00:00,194.22,35.72,17.9,False,Ensure temperature regulation systems are operational.; Contact a technician for detailed inspection.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Educational,2025-01-01 23:30:00,260.92,41.12,16.48,False,Inspect system for clogging or obstructions.; Contact a technician for detailed inspection.,No critical issues detected.
+Agricultural,2025-01-01 00:00:00,28.17,30.56,18.31,False,Perform routine maintenance on the system.; Verify sensor calibration.; Check pressure valve settings.,No critical issues detected.
+Agricultural,2025-01-01 00:30:00,10.19,23.55,28.63,False,Verify sensor calibration.; Contact a technician for detailed inspection.,No critical issues detected.
+Agricultural,2025-01-01 01:00:00,31.57,25.95,18.43,True,Inspect for leaks immediately.; Monitor flow rate for consistent patterns.; Perform routine maintenance on the system.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Agricultural,2025-01-01 01:30:00,10.89,25.1,13.96,True,Check for unusual consumption patterns.; Inspect system for clogging or obstructions.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Agricultural,2025-01-01 02:00:00,47.73,15.55,11.04,False,Monitor flow rate for consistent patterns.; Check for unusual consumption patterns.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Agricultural,2025-01-01 02:30:00,23.79,29.08,20.13,True,Check for unusual consumption patterns.; Inspect for leaks immediately.; Ensure temperature regulation systems are operational.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Agricultural,2025-01-01 03:00:00,46.46,30.45,15.26,False,Check for unusual consumption patterns.; Inspect system for clogging or obstructions.; Check pressure valve settings.,No critical issues detected.
+Agricultural,2025-01-01 03:30:00,10.89,24.82,27.04,False,Inspect system for clogging or obstructions.; Perform routine maintenance on the system.; Contact a technician for detailed inspection.,No critical issues detected.
+Agricultural,2025-01-01 04:00:00,28.82,14.69,12.99,True,Verify sensor calibration.; Inspect for leaks immediately.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Agricultural,2025-01-01 04:30:00,38.84,40.94,25.34,False,Check for unusual consumption patterns.; Ensure temperature regulation systems are operational.; Perform routine maintenance on the system.,No critical issues detected.
+Agricultural,2025-01-01 05:00:00,44.36,19.08,10.62,False,Check pressure valve settings.; Contact a technician for detailed inspection.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Agricultural,2025-01-01 05:30:00,34.84,36.53,24.68,False,Ensure temperature regulation systems are operational.; Check pressure valve settings.; Inspect system for clogging or obstructions.,No critical issues detected.
+Agricultural,2025-01-01 06:00:00,41.56,41.56,17.83,False,Check for unusual consumption patterns.; Inspect for leaks immediately.,No critical issues detected.
+Agricultural,2025-01-01 06:30:00,20.85,24.55,14.67,False,Verify sensor calibration.; Inspect for leaks immediately.; Perform routine maintenance on the system.,No critical issues detected.
+Agricultural,2025-01-01 07:00:00,28.35,23.43,28.34,False,Verify sensor calibration.; Check for unusual consumption patterns.,No critical issues detected.
+Agricultural,2025-01-01 07:30:00,34.75,16.83,14.68,True,Ensure temperature regulation systems are operational.; Perform routine maintenance on the system.; Contact a technician for detailed inspection.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Agricultural,2025-01-01 08:00:00,13.37,29.37,25.53,False,Inspect for leaks immediately.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Agricultural,2025-01-01 08:30:00,20.55,31.18,21.11,False,Ensure temperature regulation systems are operational.; Check for unusual consumption patterns.; Perform routine maintenance on the system.,No critical issues detected.
+Agricultural,2025-01-01 09:00:00,48.72,15.66,29.5,False,Monitor flow rate for consistent patterns.; Check for unusual consumption patterns.,No critical issues detected.
+Agricultural,2025-01-01 09:30:00,28.92,34.94,27.38,False,Inspect for leaks immediately.; Contact a technician for detailed inspection.; Verify sensor calibration.,No critical issues detected.
+Agricultural,2025-01-01 10:00:00,41.67,29.11,15.92,False,Inspect for leaks immediately.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Agricultural,2025-01-01 10:30:00,16.37,11.2,26.08,True,Check for unusual consumption patterns.; Perform routine maintenance on the system.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Agricultural,2025-01-01 11:00:00,18.41,35.73,25.7,False,Check pressure valve settings.; Inspect for leaks immediately.; Monitor flow rate for consistent patterns.,No critical issues detected.
+Agricultural,2025-01-01 11:30:00,17.35,31.48,20.55,True,Verify sensor calibration.; Monitor flow rate for consistent patterns.; Check pressure valve settings.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Agricultural,2025-01-01 12:00:00,44.03,27.9,16.28,False,Check pressure valve settings.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Agricultural,2025-01-01 12:30:00,25.54,9.71,7.61,True,Contact a technician for detailed inspection.; Inspect for leaks immediately.; Verify sensor calibration.,"Leak detected. Sudden changes in flow, pressure, or temperature observed.; Pressure critically low (9.711757460854024 psi). Possible leak or malfunction."
+Agricultural,2025-01-01 13:00:00,11.93,19.97,20.46,False,Inspect system for clogging or obstructions.; Check pressure valve settings.,No critical issues detected.
+Agricultural,2025-01-01 13:30:00,27.68,31.89,26.81,False,Contact a technician for detailed inspection.; Check pressure valve settings.,No critical issues detected.
+Agricultural,2025-01-01 14:00:00,28.55,30.48,22.71,True,Ensure temperature regulation systems are operational.; Contact a technician for detailed inspection.; Check pressure valve settings.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Agricultural,2025-01-01 14:30:00,47.89,32.2,12.58,False,Verify sensor calibration.; Contact a technician for detailed inspection.; Inspect for leaks immediately.,No critical issues detected.
+Agricultural,2025-01-01 15:00:00,21.08,26.55,12.15,False,Monitor flow rate for consistent patterns.; Inspect system for clogging or obstructions.,No critical issues detected.
+Agricultural,2025-01-01 15:30:00,44.34,19.79,29.4,False,Inspect system for clogging or obstructions.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Agricultural,2025-01-01 16:00:00,21.77,16.07,22.44,False,Check for unusual consumption patterns.; Contact a technician for detailed inspection.; Perform routine maintenance on the system.,No critical issues detected.
+Agricultural,2025-01-01 16:30:00,19.24,12.08,21.23,True,Perform routine maintenance on the system.; Ensure temperature regulation systems are operational.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Agricultural,2025-01-01 17:00:00,38.73,23.18,24.77,True,Inspect for leaks immediately.; Perform routine maintenance on the system.; Check pressure valve settings.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Agricultural,2025-01-01 17:30:00,49.55,41.02,20.41,False,Check for unusual consumption patterns.; Contact a technician for detailed inspection.,No critical issues detected.
+Agricultural,2025-01-01 18:00:00,28.41,17.4,13.66,False,Perform routine maintenance on the system.; Ensure temperature regulation systems are operational.; Verify sensor calibration.,No critical issues detected.
+Agricultural,2025-01-01 18:30:00,13.06,19.92,19.76,False,Monitor flow rate for consistent patterns.; Verify sensor calibration.,No critical issues detected.
+Agricultural,2025-01-01 19:00:00,13.77,14.81,28.94,False,Check pressure valve settings.; Monitor flow rate for consistent patterns.; Contact a technician for detailed inspection.,No critical issues detected.
+Agricultural,2025-01-01 19:30:00,37.58,17.75,19.36,False,Inspect for leaks immediately.; Check for unusual consumption patterns.,No critical issues detected.
+Agricultural,2025-01-01 20:00:00,21.56,30.43,26.88,False,Monitor flow rate for consistent patterns.; Verify sensor calibration.; Contact a technician for detailed inspection.,No critical issues detected.
+Agricultural,2025-01-01 20:30:00,10.43,24.96,8.59,True,Contact a technician for detailed inspection.; Check pressure valve settings.,"Leak detected. Sudden changes in flow, pressure, or temperature observed."
+Agricultural,2025-01-01 21:00:00,49.34,30.95,11.19,False,Perform routine maintenance on the system.; Inspect system for clogging or obstructions.; Check for unusual consumption patterns.,No critical issues detected.
+Agricultural,2025-01-01 21:30:00,14.09,14.55,29.62,False,Check pressure valve settings.; Inspect for leaks immediately.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Agricultural,2025-01-01 22:00:00,36.83,28.32,20.77,False,Check for unusual consumption patterns.; Ensure temperature regulation systems are operational.; Inspect for leaks immediately.,No critical issues detected.
+Agricultural,2025-01-01 22:30:00,20.2,34.36,20.8,False,Contact a technician for detailed inspection.; Check pressure valve settings.; Ensure temperature regulation systems are operational.,No critical issues detected.
+Agricultural,2025-01-01 23:00:00,27.3,36.8,23.62,False,Check pressure valve settings.; Contact a technician for detailed inspection.,No critical issues detected.
+Agricultural,2025-01-01 23:30:00,23.88,37.2,12.19,False,Contact a technician for detailed inspection.; Verify sensor calibration.; Inspect system for clogging or obstructions.,No critical issues detected.
